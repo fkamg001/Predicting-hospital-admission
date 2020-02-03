@@ -1,1 +1,2 @@
 # Predicting-hospital-admission
+This research examines how the probability of type of hospital admission changes when patients are admitted to hospitals based on personal choice (electively), as an urgent case (referred by General Practice), or as an emergency (by ambulance). For this purpose, factors such as age, race (whether white or non-white), length of stay and subsequent death are recorded in the admission data set to predict the different types of hospital admission.
